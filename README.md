@@ -1,3 +1,13 @@
+# 🛡️ Proyecto Big Data: Cyber-Sentinel
+
+Este proyecto procesa **2.8 millones de registros** de tráfico de red para detectar intrusiones en la infraestructura corporativa.
+
+## 🏗️ Arquitectura del Sistema
+- **Procesamiento Distribuido:** Google Colab con PySpark.
+- **Inteligencia Artificial:** Modelo Random Forest (99% de precisión).
+- **Inteligencia de Amenazas:** API de AbuseIPDB para validación en tiempo real.
+
+
 # 🛡️ Detección de Intrusiones con Big Data e IA
 
 Este proyecto procesa el dataset **CIC-IDS2017** utilizando una arquitectura híbrida: **PySpark** para el procesamiento masivo y **Scikit-Learn** para la detección de anomalías.
