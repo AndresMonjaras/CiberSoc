@@ -1,0 +1,16 @@
+# Archivos de configuracion y secretos
+aws_details.txt
+.env
+
+# Archivos de datos masivos (GitHub bloquea archivos > 100MB)
+*.csv
+ataques_generados.csv
+Tuesday-WorkingHours.pcap_ISCX.csv
+entrenamientoIA/
+simulacion_trafico/
+data/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
